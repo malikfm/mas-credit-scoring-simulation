@@ -20,3 +20,6 @@ This project utilizes the following technologies to build and run the credit sco
 1. Ensure you have Python 3.7 or higher installed.
 2. Install the required libraries by running `pip install requirements.txt`.
 3. Run the application using Streamlit `python -m streamlit run main.py`. This will open a new browser window with the application.
+
+## Deployment
+This project is deployed as a web-based application in Streamlit Cloud. You can access it through this URL: https://mas-credit-scoring-simulation-malikfm-ace-2024.streamlit.app

@@ -10,6 +10,12 @@ For this project, I focused on simulating a simplified credit scoring model base
 
 These two scores are then combined to produce an **overall credit score**, which is a weighted combination of the transaction and income scores. The weights control the relative contributions of transactions and income to the final credit score. The algorithm operates within a **multi-agent framework**, where agents representing the analysis system process and combine transaction and income data to generate a credit assessment.
 
+This project utilizes the following technologies to build and run the credit scoring model:
+
+- **Python:** Used for implementing the credit scoring algorithm and data processing.
+- **Streamlit:** Used for building the interactive web application and user interface.
+- **SQLite:** Used for storing and managing transaction and income data.
+
 ## How to Run Locally
 1. Ensure you have Python 3.7 or higher installed.
 2. Install the required libraries by running `pip install requirements.txt`.
